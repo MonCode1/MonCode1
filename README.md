@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonCode1
-- 👀 I’m interested in Universe and Life
+- 👀 I’m interested in Technology, Universe and Life 
 - 🌱 I’m currently learning about Node js and focusing on self growth
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
